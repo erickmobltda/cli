@@ -1,0 +1,14 @@
+# compiled binary
+do
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# dependency cache
+vendor/
